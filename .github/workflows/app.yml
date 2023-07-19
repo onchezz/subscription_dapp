@@ -1,4 +1,4 @@
-naname: Deploy DApp
+name: Deploy DApp
 on:
   push:
     branches: 
